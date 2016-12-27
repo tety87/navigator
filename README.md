@@ -1,2 +1,1 @@
-# sa sa prova
 # navigator
